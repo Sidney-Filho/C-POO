@@ -1,7 +1,9 @@
 # C#-POO
-Este Projeto consiste em utilizar classes e herança de atributos na linguagem C#
 
-Era solicitado que a classe <strong>Pessoa</strong> tive dois métodos e dois atributos
+# 📃 Descrição do Projeto
+Este é um exercício proposto pelo meu Professor que consiste em aprender a trabalhar com Programação Orientada a Objetos, e com herança de classes.
+
+Era solicitado que a classe <strong>Pessoa</strong> tivesse dois métodos e dois atributos
 
 <h3>Estrutura</h3>
 
@@ -33,3 +35,8 @@ Depois que a classe <strong>Aluno</strong> herdasse os outros métodos e atribut
   - ExplicarAula
 
 <hr>
+
+# 🛠 Ferramentas e Linguagem
+
+ - C#
+ - Visual Studio
